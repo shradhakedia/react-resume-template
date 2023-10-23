@@ -1,0 +1,39 @@
+.person-info-cont {
+  margin-left: 40px;
+  margin-top: 51px;
+  width: 278px;
+  height: 60px;
+  text-transform: uppercase;
+
+  .pic__{
+    &name{
+      width: 148px;
+      height: 35px;
+      font-size: 26px;
+      font-weight: 700;
+      color: #000000;
+      line-height: 35.1px;
+
+      &-first{
+        font-weight: 700;
+      }
+
+      &-last{
+        font-weight: 400;
+      }
+    }
+
+    &designation{
+      width: 278px;
+      height: 17px;
+      margin-top: 8px;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 18px;
+      color: #121224;
+    }
+
+  }
+
+
+}

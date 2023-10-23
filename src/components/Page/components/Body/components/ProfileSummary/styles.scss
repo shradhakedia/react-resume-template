@@ -1,0 +1,25 @@
+.profile-summary {
+    margin-top: 10px;
+    margin-bottom: 32px;
+
+    .ps__ {
+        &label {
+            width: 132px;
+            height: 20px;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 18px;
+            margin-bottom: 20px;
+            color: #121224;
+        }
+
+        &details {
+            width: 520px;
+            height: 53px;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 16px;
+            color: #1D212A;
+        }
+    }
+}
